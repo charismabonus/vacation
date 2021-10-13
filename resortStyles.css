@@ -1,0 +1,29 @@
+/* Style for all elements */
+* {
+    background-color: antiquewhite;
+    color: navy;
+    font-family: Comic Sans MS, sans-serif;
+}
+
+/* Style for element with id pageTitle */
+h1 {
+    text-align: center;
+    height: 50px;
+    border: 2px solid orange;
+    background-color: deepskyblue
+}
+
+/* Style for img element
+#image {
+    border: thin solid green;
+}
+
+/* Style for element with class, meat */
+.amenity {
+    color: darkred;
+}
+
+/* Style for element with class, veggie */
+.nearby {
+    color: mediumturquoise;
+}
